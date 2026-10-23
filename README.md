@@ -26,4 +26,5 @@ ChatGPT assisted with scoping, UI/code drafting, iteration on the scoring rubric
 - `PROMPTS.md`: prompt history and iteration record.
 - `VIDEO_SCRIPT.md`: a two-minute-plus presentation guide.
 
-To share a project link with the assessment team, publish this folder to a GitHub repository or put it in Google Drive and enable access for the reviewers. The local folder and ZIP are not public links by themselves.
+Project link: https://github.com/hareeshmpro-max/roleready-task1. The repository is public so the assessment team can review the app and documentation.
+
